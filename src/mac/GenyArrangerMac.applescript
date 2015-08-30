@@ -1,4 +1,6 @@
---V0.0.1
+--V0.0.1 -  https://github.com/fpezzato/GenyArranger/
+
+
 set counter to 0
 tell application "System Events"
 	repeat with p in (processes where background only is false)
