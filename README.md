@@ -2,6 +2,7 @@
 
 Sometimes you can have a lot of Genymotion (or, actually, Oracle VM players)running on your machine.
 You can now automatically arrange them without manually resize them all.  
+![](images/demoGenyArrangerMac.gif?raw=true)
 
 Supported OS so far:
 * Mac :+1: 
